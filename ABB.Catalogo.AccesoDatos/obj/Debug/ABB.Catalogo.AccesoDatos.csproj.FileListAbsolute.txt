@@ -1,0 +1,9 @@
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\bin\Debug\ABB.Catalogo.AccesoDatos.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\bin\Debug\ABB.Catalogo.AccesoDatos.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\obj\Debug\ABB.Catalogo.AccesoDatos.csproj.AssemblyReference.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\obj\Debug\ABB.Catalogo.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\obj\Debug\ABB.Cata.88CB057B.Up2Date
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\obj\Debug\ABB.Catalogo.AccesoDatos.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.AccesoDatos\obj\Debug\ABB.Catalogo.AccesoDatos.pdb

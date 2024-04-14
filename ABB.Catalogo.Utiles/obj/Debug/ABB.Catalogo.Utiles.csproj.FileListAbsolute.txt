@@ -1,0 +1,9 @@
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Cata.022D8E22.Up2Date
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb

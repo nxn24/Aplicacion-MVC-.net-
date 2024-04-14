@@ -1,0 +1,13 @@
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.LogicaNegocio.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.LogicaNegocio.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.AccesoDatos.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.AccesoDatos.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\obj\Debug\ABB.Catalogo.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\obj\Debug\ABB.Catalogo.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\obj\Debug\ABB.Cata.99128706.Up2Date
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\obj\Debug\ABB.Catalogo.LogicaNegocio.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.LogicaNegocio\obj\Debug\ABB.Catalogo.LogicaNegocio.pdb

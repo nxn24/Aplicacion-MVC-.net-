@@ -1,0 +1,6 @@
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\bin\Debug\ABB.Catalogo.UtilesWeb.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\bin\Debug\ABB.Catalogo.UtilesWeb.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.csproj.AssemblyReference.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.csproj.CoreCompileInputs.cache
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.dll
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.UtilesWeb\obj\Debug\ABB.Catalogo.UtilesWeb.pdb
