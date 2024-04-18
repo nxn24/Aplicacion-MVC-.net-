@@ -42,11 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Core\UsuariosLN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Core\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\ABB.Catalogo.AccesoDatos\ABB.Catalogo.AccesoDatos.csproj">
       <Project>{f222961e-4200-4946-8483-a6abddc54f77}</Project>

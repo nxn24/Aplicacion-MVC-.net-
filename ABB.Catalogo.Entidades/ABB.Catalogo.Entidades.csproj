@@ -31,8 +31,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\ABB.Catalogo.Utiles\Binarios\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\ABB.Catalogo.Utiles\Binarios\System.Web.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,14 +47,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\BaseLN.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Core\Categoria.cs" />
+    <Compile Include="Core\Producto.cs" />
+    <Compile Include="Core\Rol.cs" />
+    <Compile Include="Core\Stock.cs" />
+    <Compile Include="Core\Usuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Base\" />
-    <Folder Include="Core\" />
     <Folder Include="Filter\" />
     <Folder Include="Parcial\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

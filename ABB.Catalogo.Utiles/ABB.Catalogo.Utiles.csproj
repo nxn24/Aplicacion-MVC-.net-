@@ -45,7 +45,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Binarios\" />
     <Folder Include="Helpers\" />
     <Folder Include="Log\" />
   </ItemGroup>
@@ -54,6 +53,12 @@
       <Project>{037b6cb1-75d2-42d7-8a9f-4c3f8479dc28}</Project>
       <Name>ABB.Catalogo.Entidades</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Binarios\DataAnnotationsExtensions.dll" />
+    <Content Include="Binarios\log4net.dll" />
+    <Content Include="Binarios\System.Web.Mvc.dll" />
+    <Content Include="Binarios\System.Web.WebPages.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
