@@ -34,6 +34,10 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ABB.Catalogo.Utiles\Binarios\System.Web.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,6 +55,10 @@
     <ProjectReference Include="..\ABB.Catalogo.Entidades\ABB.Catalogo.Entidades.csproj">
       <Project>{037b6cb1-75d2-42d7-8a9f-4c3f8479dc28}</Project>
       <Name>ABB.Catalogo.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ABB.Catalogo.Utiles\ABB.Catalogo.Utiles.csproj">
+      <Project>{c3b5ca95-3368-40e7-91ec-c141f5e8fbfa}</Project>
+      <Name>ABB.Catalogo.Utiles</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -49,3 +49,5 @@ C:\Abb Catalogo\ABB.Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.Core
 C:\Abb Catalogo\ABB.Catalogo\WebServicesAbb\obj\Debug\WebServi.43EB0887.Up2Date
 C:\Abb Catalogo\ABB.Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
 C:\Abb Catalogo\ABB.Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+C:\Abb Catalogo\ABB.Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+C:\Abb Catalogo\ABB.Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb

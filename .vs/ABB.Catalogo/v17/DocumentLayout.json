@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Abb Catalogo\\ABB.Catalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{185575F8-EE8B-4B51-B1FF-E87200458EC8}|WebServicesAbb\\WebServicesAbb.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\webservicesabb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{185575F8-EE8B-4B51-B1FF-E87200458EC8}|WebServicesAbb\\WebServicesAbb.csproj|solutionrelative:webservicesabb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{18D422EE-EE12-4283-BBD9-8531FA1E2D12}|ABB.Catalogo.ClienteWeb\\ABB.Catalogo.ClienteWeb.csproj|c:\\abb catalogo\\abb.catalogo\\abb.catalogo.clienteweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D422EE-EE12-4283-BBD9-8531FA1E2D12}|ABB.Catalogo.ClienteWeb\\ABB.Catalogo.ClienteWeb.csproj|solutionrelative:abb.catalogo.clienteweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F222961E-4200-4946-8483-A6ABDDC54F77}|ABB.Catalogo.AccesoDatos\\ABB.Catalogo.AccesoDatos.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\abb.catalogo.accesodatos\\core\\usuariosda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F222961E-4200-4946-8483-A6ABDDC54F77}|ABB.Catalogo.AccesoDatos\\ABB.Catalogo.AccesoDatos.csproj|solutionrelative:abb.catalogo.accesodatos\\core\\usuariosda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{185575F8-EE8B-4B51-B1FF-E87200458EC8}|WebServicesAbb\\WebServicesAbb.csproj|c:\\abb catalogo\\abb.catalogo\\webservicesabb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58B7FE1-A74A-468C-A76B-2A963022517D}|ABB.Catalogo.LogicaNegocio\\ABB.Catalogo.LogicaNegocio.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\abb.catalogo.logicanegocio\\core\\usuariosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B7FE1-A74A-468C-A76B-2A963022517D}|ABB.Catalogo.LogicaNegocio\\ABB.Catalogo.LogicaNegocio.csproj|solutionrelative:abb.catalogo.logicanegocio\\core\\usuariosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185575F8-EE8B-4B51-B1FF-E87200458EC8}|WebServicesAbb\\WebServicesAbb.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\webservicesabb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{185575F8-EE8B-4B51-B1FF-E87200458EC8}|WebServicesAbb\\WebServicesAbb.csproj|solutionrelative:webservicesabb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037B6CB1-75D2-42D7-8A9F-4C3F8479DC28}|ABB.Catalogo.Entidades\\ABB.Catalogo.Entidades.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\abb.catalogo.entidades\\base\\baseln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{037B6CB1-75D2-42D7-8A9F-4C3F8479DC28}|ABB.Catalogo.Entidades\\ABB.Catalogo.Entidades.csproj|solutionrelative:abb.catalogo.entidades\\base\\baseln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B5CA95-3368-40E7-91EC-C141F5E8FBFA}|ABB.Catalogo.Utiles\\ABB.Catalogo.Utiles.csproj|c:\\abb catalogo\\abb.catalogo\\abb.catalogo.utiles\\helpers\\encriptacionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B5CA95-3368-40E7-91EC-C141F5E8FBFA}|ABB.Catalogo.Utiles\\ABB.Catalogo.Utiles.csproj|solutionrelative:abb.catalogo.utiles\\helpers\\encriptacionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58B7FE1-A74A-468C-A76B-2A963022517D}|ABB.Catalogo.LogicaNegocio\\ABB.Catalogo.LogicaNegocio.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\abb.catalogo.logicanegocio\\core\\usuariosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58B7FE1-A74A-468C-A76B-2A963022517D}|ABB.Catalogo.LogicaNegocio\\ABB.Catalogo.LogicaNegocio.csproj|solutionrelative:abb.catalogo.logicanegocio\\core\\usuariosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18D422EE-EE12-4283-BBD9-8531FA1E2D12}|ABB.Catalogo.ClienteWeb\\ABB.Catalogo.ClienteWeb.csproj|C:\\Abb Catalogo\\ABB.Catalogo\\abb.catalogo.clienteweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D422EE-EE12-4283-BBD9-8531FA1E2D12}|ABB.Catalogo.ClienteWeb\\ABB.Catalogo.ClienteWeb.csproj|solutionrelative:abb.catalogo.clienteweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.ClienteWeb\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABB.Catalogo.ClienteWeb\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.ClienteWeb\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "ABB.Catalogo.ClienteWeb\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T01:51:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\WebServicesAbb\\Web.config",
-              "RelativeDocumentMoniker": "WebServicesAbb\\Web.config",
-              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\WebServicesAbb\\Web.config",
-              "RelativeToolTip": "WebServicesAbb\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-15T01:38:40.075Z",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.ClienteWeb\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ABB.Catalogo.ClienteWeb\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.ClienteWeb\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ABB.Catalogo.ClienteWeb\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:44:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncriptacionHelper.cs",
+              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.Utiles\\Helpers\\EncriptacionHelper.cs",
+              "RelativeDocumentMoniker": "ABB.Catalogo.Utiles\\Helpers\\EncriptacionHelper.cs",
+              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.Utiles\\Helpers\\EncriptacionHelper.cs",
+              "RelativeToolTip": "ABB.Catalogo.Utiles\\Helpers\\EncriptacionHelper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:16:29.749Z",
               "EditorCaption": ""
             },
             {
@@ -53,47 +83,36 @@
               "RelativeDocumentMoniker": "ABB.Catalogo.AccesoDatos\\Core\\UsuariosDA.cs",
               "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.AccesoDatos\\Core\\UsuariosDA.cs",
               "RelativeToolTip": "ABB.Catalogo.AccesoDatos\\Core\\UsuariosDA.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAgwD4AAAAdAAAA",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAgwKkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T01:05:13.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "UsuariosLN.cs",
               "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.LogicaNegocio\\Core\\UsuariosLN.cs",
               "RelativeDocumentMoniker": "ABB.Catalogo.LogicaNegocio\\Core\\UsuariosLN.cs",
               "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.LogicaNegocio\\Core\\UsuariosLN.cs",
               "RelativeToolTip": "ABB.Catalogo.LogicaNegocio\\Core\\UsuariosLN.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T01:00:53.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\WebServicesAbb\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "WebServicesAbb\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\WebServicesAbb\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "WebServicesAbb\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBAAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T00:02:41.229Z",
+              "WhenOpened": "2024-04-15T01:00:53.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseLN.cs",
-              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.Entidades\\Base\\BaseLN.cs",
-              "RelativeDocumentMoniker": "ABB.Catalogo.Entidades\\Base\\BaseLN.cs",
-              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo.Entidades\\Base\\BaseLN.cs",
-              "RelativeToolTip": "ABB.Catalogo.Entidades\\Base\\BaseLN.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Abb Catalogo\\ABB.Catalogo\\WebServicesAbb\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WebServicesAbb\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Abb Catalogo\\ABB.Catalogo\\WebServicesAbb\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "WebServicesAbb\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T23:20:35.885Z"
+              "WhenOpened": "2024-04-15T00:02:41.229Z",
+              "EditorCaption": ""
             }
           ]
         }

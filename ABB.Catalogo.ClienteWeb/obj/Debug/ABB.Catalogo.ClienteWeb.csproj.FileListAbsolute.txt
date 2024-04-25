@@ -43,3 +43,4 @@ C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.ClienteWeb\obj\Debug\ABB.Catalogo.Clie
 C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.ClienteWeb\obj\Debug\ABB.Cata.023927CE.Up2Date
 C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.ClienteWeb\obj\Debug\ABB.Catalogo.ClienteWeb.dll
 C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.ClienteWeb\obj\Debug\ABB.Catalogo.ClienteWeb.pdb
+C:\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.ClienteWeb\bin\log4net.dll
